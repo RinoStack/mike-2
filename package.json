@@ -1,0 +1,11 @@
+{
+  "name": "mike-legal-platform",
+  "version": "1.0.0",
+  "description": "OSS AI Legal Platform",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "typescript": "^5.0.0"
+}
